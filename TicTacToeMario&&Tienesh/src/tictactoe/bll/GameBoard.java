@@ -34,7 +34,7 @@ public void newGame() {
 }
 
 /**
-     * Returns 0 for player 0, 1 for player 1.
+     * Returns 0 for player 0, 1 for player 1. HI
      *
      * @return int Id of the next player.
      */
